@@ -1,4 +1,4 @@
 Data Visualization with Python
 
-In this Notebook, I plotted various types of plots with matplotlib, pandas, seaborn etc.
+This notebook contains various types of plots like line plots, scattered plot, bar charts, histograms, pie charts and heatmap.
 
